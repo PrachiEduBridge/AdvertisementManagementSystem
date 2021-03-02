@@ -1,0 +1,3 @@
+create database adpoint;
+create table customer(name varchar(10), email varchar(25), password varchar(25), mobile varchar(10), city varchar(10));
+create table agency(name varchar(10), email varchar(25), password varchar(25), mobile varchar(10), city varchar(10));
